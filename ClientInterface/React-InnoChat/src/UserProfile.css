@@ -1,0 +1,49 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --main-background: #0d1117;
+  --secondary-background: #161b22;
+  --primary-text: #c9d1d9;
+  --secondary-text: #8b949e;
+  --accent: #58a6ff;
+  --accent2: #d69d85;
+  --accent3: #a371f7;
+  --border-line: #30363d;
+  --error: #f85149;
+  --success: #3fb950;
+
+  --main-font-family: "Courier New", Courier, monospace;
+}
+
+.profile_container {
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile_information {
+  height: fit-content;
+  padding: 10px 30px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.userimage {
+  cursor: pointer;
+}
+
+.username {
+  font-size: 1rem;
+  padding: 0px 10px;
+  color: var(--primary-text);
+}
+
+.NAVBarr {
+  display: flex;
+}
