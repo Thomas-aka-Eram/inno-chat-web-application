@@ -48,7 +48,7 @@ Inno-Chat is a real-time chat application that I built to deepen my understandin
 
 - **Frontend**:
   - React.js
-  - CSS (with responsive design principles)
+  - CSS (with responsive design principles but not that responsive actually)
   - WebSocket or Socket.IO client library
 
 - **Backend**:
@@ -57,8 +57,7 @@ Inno-Chat is a real-time chat application that I built to deepen my understandin
   - RESTful API for data persistence and retrieval
 
 - **Database**:
-  - MongoDB (or any other database used in the project)
-
+  - MongoDB 
 ---
 
 ## Challenges and Solutions
